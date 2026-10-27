@@ -1,0 +1,9 @@
+	# Для какого-то сайта мб можно
+if a>=18
+	print("hello")
+else
+	print("sorry, this page for users 18+")
+(.venv) PC/Thunderobot/Desktop/ChatBotTG/
+
+	// Мод Minecraft
+.\gradlew build
